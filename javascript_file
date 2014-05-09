@@ -1,0 +1,9 @@
+<script language="javascript">     
+function goThere() {
+    var list = document.forms['departments'].products
+        if(list.selectedIndex != 0) {
+            document.location.href = "/"+list.options[list.selectedIndex].value+"/"
+	}
+}
+
+</script>
