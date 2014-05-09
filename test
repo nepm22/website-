@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="javascript.js"></script>
+
+<body>
+
+
+<h1>Tennis Town and Country <a href="http://imgur.com/sODP7FM"><img src="http://i.imgur.com/sODP7FM.png" title="Hosted by imgur.com" /></a> </h1>
+<p> Tennis Town and Country - Proud Stringer of the Stanford Mens Tennis Team! </p>
+
+
+
+<select>
+<p><b><button><option value="Raquets">Raquets</b></button></option></p>
+  <option value="Wilson">Wilson</option>
+  
+  <a href="http://imgur.com/XfHwk7I"><img src="http://i.imgur.com/XfHwk7I.jpg" title="Wilson 6.1 95 16X18 " /></a>
+  
+  <option value="Babalot">Babalot</option>
+  <option value="Head">Head</option>
+  <option value="Prince">Prince</option>
+  <option value="Yonex">Yonex</option>
+  
+</select>
+
+
+
+<p><b><button>Raquets</b></button></p>
+<p><b><button>Raquet Demo Program</b></button></p>
+<p><b><button>Apparel</b></button></p>
+<p><b><button>Shoes</b></button></p>
+
+
+
+<select>
+  <p><b><button><option value="Shoes">Shoes</b></button></p></option>
+  <option value="Wilson">Wilson</option>
+  <option value="Babalot">Babalot</option>
+  <option value="Prince">Prince</option>
+  <option value="Asics">Asics</option>
+</select>
+
+
+
+
+
+
+<link rel="stylesheet" href="style1.css">
+
+
+<p><footer>Town and Country Village #99, Palo Alto CA 94301. Phone (650)-328-3223. Open Monday-Saturday 10 am - 7 pm Sunday 12 pm to 6 pm.
+</footer>
+</p>
+
+</head>
+</body>
+</html>
+
