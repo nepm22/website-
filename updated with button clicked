@@ -4,6 +4,12 @@
 <head>
 <script src="javascript.js"></script>
 <link rel="stylesheet" href="style1.css">
+div
+{
+background:url(src="http://lifehackery.com/qimages/5/used-tennis-balls.jpg");
+background-size:80px 60px;
+background-repeat:no-repeat;
+} 
 <script type="text/javascript">
 function redirect() {
 	window.location = "file:///Users/NoahMilman/Desktop/website/Raquets/raquets.html"
