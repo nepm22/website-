@@ -1,15 +1,22 @@
+
 <!DOCTYPE html>
 <html>
 
 <head>
 <script src="javascript.js"></script>
 <link rel="stylesheet" href="style1.css">
-div
+
+<style>
+body
 {
 background:url(file:///Users/NoahMilman/Desktop/website/photos/background.jpg);
-background-size:80px 60px;
+background-size:1300px 1300px;
 background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
 } 
+</style>
+
 <script type="text/javascript">
 function redirect() {
 	window.location = "file:///Users/NoahMilman/Desktop/website/Raquets/raquets.html"
