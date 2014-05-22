@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<link rel="stylesheet" href="file:///Users/NoahMilman/Desktop/website/style1.css">
+<script src="file:///Users/NoahMilman/Desktop/website/javascript.js"> 
+</script>
+</head>
+
+
+<style>
+
+
+body
+{
+font-family:Georgia, serif;
+font-weight:bold;
+color:#000000;
+}
+body{
+bakground-color: black;
+color: black;
+}
+#navbar
+{
+margin: 0;
+padding: 0;
+}
+#navbar ul{
+margin: 0;
+padding 0;
+}
+#navbar li{
+list-style:none;
+float:left;
+postition:relative;}
+
+#navbar ul li a{
+color:white;
+text-align: center;
+text-decoration:none;
+width: 160px;
+height:20px;
+display: block;
+}
+#navbar ul ul {
+postition: absolute;
+display: none;
+}
+#navbar ul li: hover ul{
+display: block;
+
+}
+
+body
+{
+background:url(file:///Users/NoahMilman/Desktop/website/photos/background.jpg);
+background-size:1300px 1300px;
+background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
+background-color: color|transparent|initial|inherit;
+} 
+ul
+{
+list-style-type:none;
+margin:10;
+padding:10;
+overflow:hidden;
+}
+li
+{
+float:left;
+}
+a:link,a:visited
+{
+display:block;
+width:160px;
+font-weight:bold;
+color:#000000;
+background-color:#98bf21;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#FF9900;
+}
+
+
+</style>
+
+<script type="text/javascript">
+function redirect() {
+	window.location = "file:///Users/NoahMilman/Desktop/website/Raquets/raquets.html"
+
+}
+function redirecttwo() {
+	window.location = "file:///Users/NoahMilman/Desktop/website/Shoes/shoes.html"
+
+}
+
+</script>
+
+<body>
+
+<div id = "navbar"
+<h1><font size = "100"><center>Tennis Town and Country</center> <center><img src = "file:///Users/NoahMilman/Desktop/website/photos/Wilson/logo-tennis.gif" /></font></center> </h1>
+
+<ul>
+<center><li><a href = "file:///Users/NoahMilman/Desktop/website/Raquets/raquets.html">Racquets</a>
+<ul>
+<li><a href = "file:///Users/NoahMilman/Desktop/website/Raquets/wilson_raquets.html">Wilson</a></li>
+</ul>
+</li>
+<!--<ul>
+<li><a href = "file:///Users/NoahMilman/Desktop/website/Raquets/wilson_raquets.html">Wilson</a></li>
+</ul>
+-->
+<!--<li><a href =#Racquet>Racquet Demo Program</a></li>-->
+<li><a href="file:///Users/NoahMilman/Desktop/website/Shoes/shoes.html">Shoes</a></li>
+<li><a href =#Staff>Apparel</a></li>
+<li><a href =#strings>Strings</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#about">About</a></li>
+
+</center>
+</ul>
+
+
+<!--<div>
+<input type="button" onclick="redirect()" value= "Raquets" class = "tct" font:myFirstFont>
+<input type="button" onclick="redirecttwo()" value= "Shoes">
+ <p><b><button>Raquet Demo Program</b></button></p>
+<p><b><button>Apparel</b></button></p>
+</div>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><footer>Town and Country Village #99, Palo Alto CA 94301. Phone (650)-328-3223. Open Monday-Saturday 10 am - 7 pm Sunday 12 pm to 6 pm.
+</footer>
+</p>
+</body>
+
+</html>
